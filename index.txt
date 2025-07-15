@@ -1,0 +1,19 @@
+1:"$Sreact.fragment"
+2:I[7113,["502","static/chunks/502-9c69c3447ba44769.js","177","static/chunks/app/layout-bb4a3483f64cc606.js"],"ThemeProvider"]
+3:I[1023,["502","static/chunks/502-9c69c3447ba44769.js","177","static/chunks/app/layout-bb4a3483f64cc606.js"],"Header"]
+4:I[5244,[],""]
+5:I[3866,[],""]
+6:I[2985,["502","static/chunks/502-9c69c3447ba44769.js","177","static/chunks/app/layout-bb4a3483f64cc606.js"],"Footer"]
+7:I[7033,[],"ClientPageRoot"]
+8:I[5091,["502","static/chunks/502-9c69c3447ba44769.js","892","static/chunks/892-003d3949a7b16730.js","974","static/chunks/app/page-7df614033af9384e.js"],"default"]
+b:I[6213,[],"OutletBoundary"]
+d:I[6213,[],"MetadataBoundary"]
+f:I[6213,[],"ViewportBoundary"]
+11:I[4835,[],""]
+:HL["/_next/static/css/014e44db0e046e87.css","style"]
+0:{"P":null,"b":"8djp6wK845d1uv1zs16LC","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/014e44db0e046e87.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_5cfdac __variable_9a8899 bg-white tracking-tight antialiased dark:bg-zinc-950","children":["$","$L2",null,{"enableSystem":false,"attribute":"class","storageKey":"theme","defaultTheme":"dark","children":["$","div",null,{"className":"flex min-h-screen w-full flex-col font-[family-name:var(--font-inter-tight)]","children":["$","div",null,{"className":"relative mx-auto w-full max-w-screen-sm flex-1 px-4 pt-20","children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],["$","div",null,{"className":"text-center","children":[["$","h1",null,{"children":"404 - Page Not Found"}],["$","p",null,{"children":"The page you are looking for does not exist."}]]}]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L6",null,{}]]}]}]}]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L7",null,{"Component":"$8","searchParams":{},"params":{},"promises":["$@9","$@a"]}],null,["$","$Lb",null,{"children":"$Lc"}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","sdkVoYLafmP8zUx_Eyzwp",{"children":[["$","$Ld",null,{"children":"$Le"}],["$","$Lf",null,{"children":"$L10"}],null]}]]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+9:{}
+a:{}
+10:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#ffffff"}]]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"PvH"}],["$","meta","2",{"name":"description","content":"Paul von Hirschhausen - Data Scientist and AI Developer specializing in NLP, LegalTech, and machine learning solutions."}],["$","link","3",{"rel":"canonical","href":"/"}],["$","link","4",{"rel":"shortcut icon","href":"/favicon_2.ico"}],["$","link","5",{"rel":"icon","href":"/favicon_2.ico"}],["$","link","6",{"rel":"apple-touch-icon","href":"/favicon_2.ico"}]]
+c:null
